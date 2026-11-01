@@ -164,25 +164,21 @@ Results-driven engineer who designs, builds and maintains production-grade SaaS 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tanvir-Ahmed98&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9d4edd&icon_color=9d4edd" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvir-Ahmed98&theme=radical&hide_border=true&background=0D1117&ring=9d4edd&fire=9d4edd&currStreakLabel=9d4edd" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanvir-Ahmed98&theme=radical" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvir-Ahmed98&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9d4edd&langs_count=8" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanvir-Ahmed98&theme=radical" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanvir-Ahmed98&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanvir-Ahmed98&theme=radical" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tanvir-Ahmed98&theme=radical&utcOffset=6" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvir-Ahmed98&bg_color=0d1117&color=9d4edd&line=9d4edd&point=ffffff&area=true&hide_border=true" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tanvir-Ahmed98&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvir-Ahmed98&theme=radical&hide_border=true&background=0D1117&ring=9d4edd&fire=9d4edd&currStreakLabel=9d4edd" />
 </p>
 
 ---
@@ -198,16 +194,6 @@ Results-driven engineer who designs, builds and maintains production-grade SaaS 
   </a>
   <a href="https://tanvir-ahmed98.github.io">
     <img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=githubpages&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 📌 Pinned Repositories
-
-<p align="center">
-  <a href="https://github.com/Tanvir-Ahmed98">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanvir-Ahmed98&repo=REPLACE_WITH_REPO_NAME&theme=radical&hide_border=true&bg_color=0D1117" />
   </a>
 </p>
 
