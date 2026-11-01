@@ -5,14 +5,14 @@
 
 <!-- Animated Typing -->
 <p align="center">
-  <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer+%F0%9F%9A%80;Building+Multi-Tenant+SaaS+Platforms+%F0%9F%92%BB;React+%7C+Vue%2FNuxt+%7C+TypeScript+%7C+PHP;Implementing+AWS%2C+Docker%2C+Terraform+%26+Kubernetes+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=900&height=50&lines=Software+Engineer+%F0%9F%9A%80;Building+Multi-Tenant+SaaS+Platforms+%F0%9F%92%BB;React+%7C+Vue%2FNuxt+%7C+TypeScript+%7C+PHP;Apply+AWS%2C+Docker%2C+Terraform+%26+Kubernetes+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views & Stats -->
 <p align="center">
-  <img width="100%" src="https://komarev.com/ghpvc/?username=Tanvir-Ahmed98&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
-  <img  width="100%" src="https://img.shields.io/github/followers/Tanvir-Ahmed98?label=Followers&style=flat-square&color=blueviolet" alt="followers" />
-  <img width="100%" src="https://img.shields.io/github/stars/Tanvir-Ahmed98?label=Stars&style=flat-square&color=blueviolet" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=Tanvir-Ahmed98&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Tanvir-Ahmed98?label=Followers&style=flat-square&color=blueviolet" alt="followers" />
+  <img src="https://img.shields.io/github/stars/Tanvir-Ahmed98?label=Stars&style=flat-square&color=blueviolet" alt="stars" />
 </p>
 
 ---
