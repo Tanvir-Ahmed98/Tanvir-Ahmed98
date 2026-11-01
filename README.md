@@ -5,7 +5,7 @@
 
 <!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer+%F0%9F%9A%80;Building+Multi-Tenant+SaaS+Platforms+%F0%9F%92%BB;React+%7C+Vue%2FNuxt+%7C+TypeScript+%7C+PHP;Learning+AWS%2C+Docker%2C+Terraform+%26+Kubernetes+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer+%F0%9F%9A%80;Building+Multi-Tenant+SaaS+Platforms+%F0%9F%92%BB;React+%7C+Vue%2FNuxt+%7C+TypeScript+%7C+PHP;Implementing+AWS%2C+Docker%2C+Terraform+%26+Kubernetes+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views & Stats -->
